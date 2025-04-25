@@ -1,0 +1,11 @@
+title: "7-Lens Innovation Blog"
+author: "Your Name"
+description: "Exploring the 7-Lens Innovation Cycle"
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+permalink: /:title/
