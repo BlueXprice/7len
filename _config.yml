@@ -1,8 +1,8 @@
 title: "7-Lens Innovation Blog"
-author: "Your Name"
+author: "Chotchuang"
 description: "Exploring the 7-Lens Innovation Cycle"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://bluexprice.github.io/7len"
 theme: minima
 plugins:
   - jekyll-feed
